@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923418194888",
+    "firebase_url": "https://ejemplounity.firebaseio.com",
+    "project_id": "ejemplounity",
+    "storage_bucket": "ejemplounity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923418194888:android:4d690312d6f1baa7",
+        "android_client_info": {
+          "package_name": "com.asanz.ejemplofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923418194888-32042ap89nrcf6gjl5fmse9de47u5aor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEhr1JBK6zpmD-qV6NAAyznn8V_ekBpiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923418194888-32042ap89nrcf6gjl5fmse9de47u5aor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
